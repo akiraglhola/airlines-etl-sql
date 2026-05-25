@@ -1,0 +1,18 @@
+ICAO,aerolinea,IATA,country,founded,started_operations,Group,Base,fleet_size,average_fleet_Age,official_site
+ENY,Envoy Air,MQ,United States,,2014.0,American Airlines Group,Dallas / Fort Worth International (DFW / KDFW),151,9.4,envoyair.com
+SKW,SkyWest Airlines,OO,United States,1972.0,1972.0,SkyWest Incorporated,"St. George, Utah",571,13.7,skywest.com
+JIA,PSA Airlines,OH,United States,1979.0,1995.0,American Airlines Group,Charlotte Douglas International (CLT / KCLT),141,12.3,psaairlines.com
+EDV,Endeavor Air,9E,United States,,2013.0,Delta Air Lines,Minneapolis St. Paul International (MSP / KMSP),142,14.4,endeavorair.com
+ASH,Mesa Airlines,YV,United States,1980.0,1980.0,Mesa Air Group,Phoenix Sky Harbor (PHX / KPHX),125,12.1,mesa-air.com
+SWA,Southwest Airlines,WN,United States,1967.0,,,Dallas Love Field (DAL / KDAL),817,11.6,southwest.com
+AAY,Allegiant Air,G4,United States,1997.0,1998.0,,Las Vegas Harry Reid International (LAS / KLAS),126,15.6,allegiantair.com
+AAL,American Airlines,AA,United States,1930.0,,American Airlines Group,Dallas / Fort Worth International (DFW / KDFW),967,13.3,aa.com
+DAL,Delta Air Lines,DL,United States,1928.0,1929.0,,Atlanta Hartsfield - Jackson (ATL / KATL),984,15.3,delta.com
+FFT,Frontier Airlines,F9,United States,1994.0,1994.0,,Denver International (DEN / KDEN),142,4.5,flyfrontier.com
+JBU,JetBlue Airways,B6,United States,1999.0,2000.0,,New York John F. Kennedy (JFK / KJFK),291,12.3,jetblue.com
+RPA,Republic Airways,YX,United States,2005.0,,Republic Airways Holdings,,209,13.0,rjet.com
+UAL,United Airlines,UA,United States,1926.0,,,Chicago O'Hare (ORD / KORD),954,16.3,united.com
+ASA,Alaska Airlines,AS,United States,1932.0,1944.0,Alaska Air Group,Seattle Tacoma International (SEA / KSEA),317,8.8,alaskaair.com
+HAL,Hawaiian Airlines,HA,United States,1929.0,1941.0,,Honolulu Daniel K Inouye International (HNL / PHNL),65,12.3,hawaiianairlines.com
+QXE,Horizon Air,QX,United States,1981.0,1981.0,Alaska Air Group,Seattle Tacoma International (SEA / KSEA),43,4.4,alaskaair.com
+NKS,Spirit Airlines,NK,United States,1980.0,1992.0,,Chicago O'Hare (ORD / KORD),204,6.2,spirit.com 

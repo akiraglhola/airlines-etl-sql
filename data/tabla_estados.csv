@@ -1,0 +1,364 @@
+estado,nombre_estado
+TX,Texas
+OH,Ohio
+GA,Georgia
+MS,Misisipi
+FL,Florida
+NC,Carolina del Norte
+ND,Dakota del Norte
+PA,Pensilvania
+MO,Misuri
+AK,Alaska
+HI,Hawái
+MI,Míchigan
+MT,Montana
+MO,Misuri
+NE,Nebraska
+AK,Alaska
+FL,Florida
+NJ,Nueva Jersey
+TX,Texas
+GA,Georgia
+AK,Alaska
+TN,Tennessee
+AK,Alaska
+HI,Hawái
+AK,Alaska
+WI,Wisconsin
+LA,Luisiana
+LA,Luisiana
+MI,Míchigan
+WY,Wyoming
+TX,Texas
+NV,Nevada
+PA,Pensilvania
+OK,Oklahoma
+WV,Virginia Occidental
+ID,Idaho
+TX,Texas
+KY,Kentucky
+KS,Kansas
+HI,Hawái
+NE,Nebraska
+AR,Arkansas
+CA,California
+TX,Texas
+CO,Colorado
+CA,California
+KY,Kentucky
+TX,Texas
+WI,Wisconsin
+NH,Nuevo Hampshire
+KS,Kansas
+MI,Míchigan
+IA,Iowa
+OR,Oregón
+FL,Florida
+TN,Tennessee
+MS,Misisipi
+FL,Florida
+GA,Georgia
+TX,Texas
+WI,Wisconsin
+MN,Minnesota
+ND,Dakota del Norte
+TX,Texas
+MT,Montana
+UT,Utah
+AL,Alabama
+IL,Illinois
+LA,Luisiana
+CA,California
+AL,Alabama
+CO,Colorado
+WI,Wisconsin
+MI,Míchigan
+SC,Carolina del Sur
+TN,Tennessee
+NC,Carolina del Norte
+LA,Luisiana
+NY,Nueva York
+NY,Nueva York
+NJ,Nueva Jersey
+CA,California
+NY,Nueva York
+VA,Virginia
+NY,Nueva York
+AK,Alaska
+VA,Virginia
+OR,Oregón
+NE,Nebraska
+CA,California
+UT,Utah
+NY,Nueva York
+MD,Maryland
+OK,Oklahoma
+NE,Nebraska
+NY,Nueva York
+CA,California
+FL,Florida
+KY,Kentucky
+KY,Kentucky
+TT,Territorios No Incorporados a USA
+CA,California
+FL,Florida
+WA,Washington
+MI,Míchigan
+FL,Florida
+IL,Illinois
+AK,Alaska
+PA,Pensilvania
+AZ,Arizona
+AZ,Arizona
+SD,Dakota del Sur
+PA,Pensilvania
+NY,Nueva York
+ID,Idaho
+PR,Puerto Rico
+ME,Maine
+ME,Maine
+OR,Oregón
+NH,Nuevo Hampshire
+AZ,Arizona
+RI,Rhode Island
+UT,Utah
+CO,Colorado
+WA,Washington
+FL,Florida
+NC,Carolina del Norte
+SD,Dakota del Sur
+AK,Alaska
+CA,California
+NV,Nevada
+LA,Luisiana
+WI,Wisconsin
+VA,Virginia
+WY,Wyoming
+VA,Virginia
+MN,Minnesota
+NY,Nueva York
+WY,Wyoming
+IL,Illinois
+NM,Nuevo México
+CA,California
+TX,Texas
+MI,Míchigan
+TT,Territorios No Incorporados a USA
+KS,Kansas
+UT,Utah
+IL,Illinois
+TX,Texas
+TX,Texas
+CA,California
+WA,Washington
+CA,California
+CA,California
+PR,Puerto Rico
+MN,Minnesota
+CA,California
+FL,Florida
+CA,California
+OR,Oregón
+CA,California
+NM,Nuevo México
+CA,California
+CA,California
+FL,Florida
+MI,Míchigan
+GA,Georgia
+AK,Alaska
+NE,Nebraska
+PA,Pensilvania
+MT,Montana
+WA,Washington
+WY,Wyoming
+LA,Luisiana
+IA,Iowa
+SD,Dakota del Sur
+AK,Alaska
+IN,Indiana
+WA,Washington
+IL,Illinois
+MO,Misuri
+MN,Minnesota
+UT,Utah
+MO,Misuri
+NY,Nueva York
+FL,Florida
+PA,Pensilvania
+VA,Virginia
+OK,Oklahoma
+CA,California
+ID,Idaho
+NY,Nueva York
+AL,Alabama
+FL,Florida
+FL,Florida
+AR,Arkansas
+OH,Ohio
+MI,Míchigan
+NJ,Nueva Jersey
+AZ,Arizona
+OK,Oklahoma
+ID,Idaho
+TX,Texas
+GA,Georgia
+FL,Florida
+UT,Utah
+TX,Texas
+TX,Texas
+WA,Washington
+DC,Distrito de Columbia
+DC,Distrito de Columbia
+CA,California
+IA,Iowa
+SD,Dakota del Sur
+ND,Dakota del Norte
+WA,Washington
+FL,Florida
+NY,Nueva York
+TX,Texas
+KS,Kansas
+ND,Dakota del Norte
+DE,Delaware
+NC,Carolina del Norte
+MA,Massachusetts
+AK,Alaska
+WA,Washington
+AK,Alaska
+AZ,Arizona
+IL,Illinois
+ID,Idaho
+MA,Massachusetts
+MT,Montana
+MN,Minnesota
+TX,Texas
+GA,Georgia
+AK,Alaska
+NM,Nuevo México
+NY,Nueva York
+CA,California
+VT,Vermont
+MT,Montana
+MO,Misuri
+WY,Wyoming
+UT,Utah
+IA,Iowa
+IL,Illinois
+SC,Carolina del Sur
+WV,Virginia Occidental
+VI,Islas Vírgenes
+NC,Carolina del Norte
+PR,Puerto Rico
+VA,Virginia
+TN,Tennessee
+WY,Wyoming
+IL,Illinois
+IL,Illinois
+LA,Luisiana
+VI,Islas Vírgenes
+OH,Ohio
+WV,Virginia Occidental
+OH,Ohio
+WY,Wyoming
+TX,Texas
+CO,Colorado
+MO,Misuri
+SC,Carolina del Sur
+PA,Pensilvania
+GA,Georgia
+MS,Misisipi
+OH,Ohio
+OH,Ohio
+NC,Carolina del Norte
+AK,Alaska
+TX,Texas
+TX,Texas
+TX,Texas
+OH,Ohio
+FL,Florida
+MI,Míchigan
+AK,Alaska
+IL,Illinois
+TX,Texas
+CO,Colorado
+TX,Texas
+IA,Iowa
+MI,Míchigan
+ND,Dakota del Norte
+ND,Dakota del Norte
+AK,Alaska
+KS,Kansas
+AL,Alabama
+IA,Iowa
+MN,Minnesota
+CO,Colorado
+CO,Colorado
+WI,Wisconsin
+TX,Texas
+AK,Alaska
+NV,Nevada
+NY,Nueva York
+PA,Pensilvania
+MI,Míchigan
+OR,Oregón
+IN,Indiana
+WA,Washington
+AK,Alaska
+ND,Dakota del Norte
+AR,Arkansas
+WI,Wisconsin
+NC,Carolina del Norte
+AZ,Arizona
+MI,Míchigan
+IA,Iowa
+FL,Florida
+MO,Misuri
+FL,Florida
+AR,Arkansas
+IN,Indiana
+CA,California
+FL,Florida
+CA,California
+NC,Carolina del Norte
+WY,Wyoming
+ND,Dakota del Norte
+NE,Nebraska
+CO,Colorado
+MI,Míchigan
+MT,Montana
+WI,Wisconsin
+NC,Carolina del Norte
+NC,Carolina del Norte
+SC,Carolina del Sur
+TT,Territorios No Incorporados a USA
+MS,Misisipi
+CO,Colorado
+MD,Maryland
+MI,Míchigan
+TX,Texas
+PA,Pensilvania
+CT,Connecticut
+WV,Virginia Occidental
+CO,Colorado
+MS,Misisipi
+CO,Colorado
+KS,Kansas
+MT,Montana
+MN,Minnesota
+HI,Hawái
+SC,Carolina del Sur
+NM,Nuevo México
+HI,Hawái
+TX,Texas
+TX,Texas
+AL,Alabama
+ID,Idaho
+IN,Indiana
+MN,Minnesota
+MI,Míchigan
+NY,Nueva York
+NY,Nueva York
+WY,Wyoming
+SD,Dakota del Sur
+KS,Kansas
